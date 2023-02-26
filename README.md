@@ -21,7 +21,7 @@
   <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
-<p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
+
 
 <p align="center"> 
     <a href="https://ashutosh1919.github.io" target="_blank">
@@ -42,7 +42,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To view a live example, **[click here]()**
 
 # Clone and Use 📋
 
@@ -51,7 +51,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   ```bash
-   git clone https://github.com/ashutosh1919/masterPortfolio.git
+   git clone https://github.com//masterPortfolio.git
   ```
   This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -123,7 +123,7 @@ Whenever you want to update the github related information on the website you ne
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://ashutosh1919.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
+Note here that if you click [my portfolio](), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
 Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
 
 - If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo
@@ -200,16 +200,9 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
-# Contributing 💡
+# Contributing 
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/masterPortfolio/pulls) or [issue](https://github.com/ashutosh1919/masterPortfolio/issues).
-
-- Move to Gatsby
-- Add Podcast Section and Video Section
-- Add tests to automate review.
-- Setup Travis workflow.
-
-# Contributors ✨
+# Inspiration ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
